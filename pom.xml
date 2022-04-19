@@ -15,6 +15,7 @@
         <module>slf4j</module>
         <module>slf4j-logback</module>
         <module>springboot-log</module>
+        <module>slf4j-log4j2</module>
     </modules>
 
     <properties>
